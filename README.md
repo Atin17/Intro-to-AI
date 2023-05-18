@@ -1,2 +1,2 @@
-# Intro-to-AI
-Fall 2022
+# CS520: Intro-to-AI
+Rutgers University Fall 2022
